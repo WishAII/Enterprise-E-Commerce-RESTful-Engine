@@ -1,4 +1,4 @@
-# 🛒 Enterprise E-Commerce RESTful Backend Engine
+# 🛒 Enterprise E-Commerce RESTful Engine
 
 A production-ready, modular e-commerce REST API backend built with **Java 25** and **Spring Boot 3.5**, featuring JWT authentication, Stripe payment integration, Flyway database migrations, and OpenAPI documentation.
 
